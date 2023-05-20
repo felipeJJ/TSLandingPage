@@ -10,6 +10,12 @@ export const InputContainer = styled.div`
     align-items: center;
     margin-bottom: 20px;
 `
+export const ErrorText = styled.p`
+    color: #FF0000;
+    font-size: 12px;
+    margin: 5px 0;
+    
+`
 
 export const IconContainer = styled.div`
     margin-right: 10px;

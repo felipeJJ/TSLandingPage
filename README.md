@@ -1,4 +1,4 @@
-# Making a clone of Dio's landing page 
+# Making a clone of DIO's landing page 
 Using this exemple to laern CLI and StyledComponents on React  
 
 ## React Hook Form
